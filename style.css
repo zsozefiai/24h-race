@@ -44,3 +44,10 @@ label[for="inf"]{
     top: 400px;
     left: 250px;
 }
+.poster img{
+    position: absolute;
+    height: 500px;
+    width: 300px;
+    right: 10px;
+    top: 100px;
+}
