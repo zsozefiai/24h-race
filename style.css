@@ -51,3 +51,11 @@ label[for="inf"]{
     right: 10px;
     top: 100px;
 }
+label[for="standings"]{
+    position: absolute;
+    color: white;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 300px;
+    left: 300px;
+}
