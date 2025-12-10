@@ -2,6 +2,7 @@ body{
     background-image: url(img_8.jpg);
     background-size: 1600px;
 }
+body
 .hatter{
     background-color: rgb(0, 0, 53);
     display: flex;
@@ -58,4 +59,62 @@ label[for="standings"]{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     top: 300px;
     left: 300px;
+}
+.results{
+    position: absolute;
+    display: flex;
+    height: 300px;
+    width: 200px;
+    background-color: rgb(0, 0, 53);
+    top: 160px;
+    left: 60px;
+    border-radius: 15px;
+}
+label[for="one"]{
+    position: absolute;
+    color: grey;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 40px;
+    left: 60px;
+}
+label[for="two"]{
+    position: absolute;
+    color: grey;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 80px;
+    left: 60px;
+}
+label[for="three"]{
+    position: absolute;
+    color: grey;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 120px;
+    left: 60px;
+}
+label[for="four"]{
+    position: absolute;
+    color: grey;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 160px;
+    left: 60px;
+}
+label[for="five"]{
+    position: absolute;
+    color: grey;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 200px;
+    left: 60px;
+}
+label[for="idk"]{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 5px;
+    left: 30px;
 }
