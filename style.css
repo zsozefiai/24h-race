@@ -51,6 +51,7 @@ label[for="inf"]{
     width: 300px;
     right: 10px;
     top: 100px;
+    border-radius: 6px;
 }
 label[for="standings"]{
     position: absolute;
