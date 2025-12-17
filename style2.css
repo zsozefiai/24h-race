@@ -6,29 +6,30 @@
     }
     .poster img{
     position: absolute;
-    height: 300px;
-    width: 200px;
-    left: 30px;
-    top: 550px;
-    border-radius: 4px;
+    height: 260px;
+    width: 170px;
+    left: 20px;
+    top: 500px;
+    border-radius: 10px;
     }
     body
     .hatter{
     background-color: rgb(0, 0, 53);
     display: flex;
-    height: 500px;
-    width: 450px;
+    height: 400px;
+    width: 400px;
     position: absolute;
-    top: 30px;
-    left: 30px;
+    top: 80px;
+    left: 15px;
     border-radius: 20px;
+    
 }
 label[for="next_race"]{
     position: absolute;
     color: white;
-    font-size: 50px;
-    top: 50px;
-    left: 100px;
+    font-size: 47px;
+    top: 30px;
+    left: 70px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 label[for="march"]{
@@ -36,41 +37,41 @@ label[for="march"]{
     color: white;
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    top: 130px;
-    left: 150px;
+    top: 100px;
+    left: 90px;
 }
 label[for="track"]{
     position: absolute;
     color: white;
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    top: 220px;
-    left: 150px;
+    top: 180px;
+    left: 90px;
 }
 label[for="inf"]{
     position: absolute;
     color: white;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    top: 400px;
-    left: 150px;
+    top: 300px;
+    left: 90px;
 }
 label[for="standings"]{
     position: absolute;
     color: white;
     font-size: 28px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    top: 300px;
-    left: 150px;
+    top: 250px;
+    left: 90px;
 }
 .results{
     position: absolute;
     display: flex;
-    height: 300px;
+    height: 270px;
     width: 200px;
     background-color: rgb(0, 0, 53);
-    top: 550px;
-    left: 250px;
+    top: 500px;
+    left: 200px;
     border-radius: 15px;
 }
 label[for="one"]{
@@ -121,4 +122,84 @@ label[for="idk"]{
     top: 5px;
     left: 30px;
 }
+.menu{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    background-color: midnightblue;
+    height: 40px;
+    right: 6px;
+    width: 300px;
+    justify-content: space-between;
+    padding: 0 12px;
+    border-radius: 8px;
+}
+.dropbtn {
+  background-color: transparent;
+  color: white;
+  padding: 9px;
+  font-size: 30px;
+  border: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  cursor: pointer;
+  position: relative;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropmn {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1000;
+}
+.dropmn a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropmn a:hover {background-color: #ddd;}
+.dropdown:hover .dropmn {display: block;}
+.dropdown:hover .dropbtn {background-color: transparent;}
+
+
+.team {
+  background-color: transparent;
+  color: white;
+  padding: 9px;
+  font-size: 30px;
+  border: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  cursor: pointer;
+  position: relative;
+}
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+.teams {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1000;
+}
+.teams a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.teams a:hover {background-color: #ddd;}
+.dropdown2:hover .teams {display: block;}
+.dropdown2:hover .team {background-color: transparent;}
 }
