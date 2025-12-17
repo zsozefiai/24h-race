@@ -1,6 +1,7 @@
 body{
     background-image: url(img_8.jpg);
     background-size: 2000px;
+    height: 1000px;
 }
 body
 .hatter{
@@ -209,3 +210,49 @@ label[for="idk"]{
 .teams a:hover {background-color:#434343; border-radius: 10px;}
 .dropdown2:hover .teams {display: block;}
 .dropdown2:hover .team {background-color: transparent;}
+.rights{
+  position: absolute;
+  top: 680px;
+  left: 350px;
+  background-color: midnightblue;
+  width: 900px;
+  height: 200px;
+  border-radius: 10px;
+}
+img.simgrid{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 70px;
+  left: 40px;
+}
+label[for="2025"]{
+  position: absolute;
+  color: rgb(197, 202, 246);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  top: 20px;
+  left: 450px;
+}
+label[for="support"]{
+  position: absolute;
+  color: #6e75b4;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 28px;
+  top: 20px;
+  left: 60px;
+}
+label[for="email"]{
+  position: absolute;
+  color: rgb(197, 202, 246);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  top: 65px;
+  left: 140px;
+}
+img.twitch{
+  position: absolute;
+  height: 40px;
+  top: 100px;
+  left: 160px;
+}
