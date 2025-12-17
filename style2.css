@@ -1,8 +1,9 @@
 @media screen and (max-width: 700px){
     body{
         background-image: url(img_8.jpg);
-        background-size: 1600px;
+        background-size: 1800px;
         background-repeat: no-repeat;
+        height: 900px;
     }
     .poster img{
     position: absolute;
@@ -210,4 +211,52 @@ label[for="idk"]{
 .teams a:hover {background-color: #434343;}
 .dropdown2:hover .teams {display: block;}
 .dropdown2:hover .team {background-color: transparent;}
+}
+.rights{
+  position: absolute;
+  top: 800px;
+  left: 20px;
+  background-color: midnightblue;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+}
+img.simgrid{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 90px;
+  left: 40px;
+}
+label[for="2025"]{
+  position: absolute;
+  color: rgb(197, 202, 246);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  top: 20px;
+  left: 300px;
+}
+label[for="support"]{
+  position: absolute;
+  color: #6e75b4;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 17px;
+  top: 20px;
+  left: 60px;
+}
+label[for="email"] a {
+  position: absolute;
+  color: rgb(197, 202, 246);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  top: 65px;
+  left: 50px;
+  text-decoration: none;
+}
+
+img.twitch{
+  position: absolute;
+  height: 40px;
+  top: 120px;
+  left: 160px;
 }
