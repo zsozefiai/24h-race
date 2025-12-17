@@ -155,6 +155,7 @@ label[for="idk"]{
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1000;
+  border-radius: 10px;
 }
 .dropmn a {
   color:rgb(221, 217, 217);
@@ -165,7 +166,7 @@ label[for="idk"]{
   font-size: 20px;
   font-weight: bold;
 }
-.dropmn a:hover {background-color: #434343;}
+.dropmn a:hover {background-color: #434343; border-radius: 10px;}
 .dropdown:hover .dropmn {display: block;}
 .dropdown:hover .dropbtn {background-color: transparent;}
 
@@ -194,6 +195,7 @@ label[for="idk"]{
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1000;
+  border-radius: 10px;
 }
 .teams a {
   color: rgb(221, 217, 217);
@@ -204,6 +206,6 @@ label[for="idk"]{
   text-decoration: none;
   display: block;
 }
-.teams a:hover {background-color:#434343;}
+.teams a:hover {background-color:#434343; border-radius: 10px;}
 .dropdown2:hover .teams {display: block;}
 .dropdown2:hover .team {background-color: transparent;}
