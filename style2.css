@@ -225,7 +225,7 @@ img.simgrid{
   height: 100px;
   width: 100px;
   top: 90px;
-  left: 40px;
+  left: 20px;
 }
 label[for="2025"]{
   position: absolute;
@@ -249,7 +249,7 @@ label[for="email"] a {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   top: 65px;
-  left: 50px;
+  left: 70px;
   text-decoration: none;
 }
 
@@ -257,7 +257,7 @@ img.twitch{
   position: absolute;
   height: 40px;
   top: 120px;
-  left: 160px;
+  left: 140px;
 }
 label[for="privacy"] a {
   position: absolute;
@@ -266,6 +266,12 @@ label[for="privacy"] a {
   text-decoration: underline;
   font-size: 15px;
   top: 150px;
-  right: 20px;
+  right: 10px;
+}
+img.insta{
+  position: absolute;
+  height: 45px;
+  top: 120px;
+  left: 210px;
 }
 }
