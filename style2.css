@@ -274,4 +274,10 @@ img.insta{
   top: 120px;
   left: 210px;
 }
+img.tiktok{
+  position: absolute;
+  height: 70px;
+  top: 80px;
+  left: 290px;
+}
 }
