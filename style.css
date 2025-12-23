@@ -72,13 +72,14 @@ label[for="standings"]{
     left: 60px;
     border-radius: 15px;
 }
-label[for="one"]{
+label[for="one"] a {
     position: absolute;
-    color: grey;
+    color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    top: 40px;
+    top: 42px;
     left: 60px;
+    text-decoration: none;
 }
 label[for="two"]{
     position: absolute;

@@ -77,7 +77,7 @@ label[for="standings"]{
 }
 label[for="one"]{
     position: absolute;
-    color: grey;
+    color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 40px;
