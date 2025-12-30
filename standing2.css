@@ -1,7 +1,8 @@
 @media screen and (max-width: 700px){
     body{
         background-image: url(nurn3.jpg);
-        background-size: 2500px;
+        background-size:1700px;
+        background-repeat: no-repeat;
     }
     .standingg{
         position: absolute;
