@@ -2,6 +2,7 @@ body{
     background-image: url(img_8.jpg);
     background-size: 2000px;
     height: 1000px;
+    overflow-y: hidden;
 }
 body
 .hatter{
@@ -127,7 +128,7 @@ label[for="idk"]{
     align-items: center;
     background-color: midnightblue;
     height: 40px;
-    right: 600px;
+    right: 500px;
     width: 300px;
     justify-content: space-between;
     padding: 0 12px;
