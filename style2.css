@@ -75,13 +75,13 @@ label[for="standings"]{
     left: 200px;
     border-radius: 15px;
 }
-label[for="one"]{
+label[for="one"]a{
     position: absolute;
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    top: 10px;
-    left: 20px;
+    top: 15px;
+    left: 1px;
 }
 label[for="two"]{
     position: absolute;
