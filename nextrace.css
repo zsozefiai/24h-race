@@ -1,0 +1,14 @@
+body{
+    background-image: url(nextrace31.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+}
+.tabla{
+    position: absolute;
+    background-color: rgb(4, 47, 95);
+    height: 400px;
+    width: 900px;
+    border-radius: 13px;
+    right: 520px;
+    top: 250px;
+}
