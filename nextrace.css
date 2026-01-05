@@ -9,6 +9,38 @@ body{
     height: 400px;
     width: 900px;
     border-radius: 13px;
-    right: 520px;
-    top: 250px;
+    right: 300px;
+    top: 100px;
+}
+label[for="race"]{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    top: 70px;
+    left: 180px;
+    font-weight: 600;
+}
+label[for="date"]{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    top: 170px;
+    left: 180px;
+    font-weight: 540;
+}
+label[for="clock"]{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    top: 174px;
+    left: 450px;
+}
+label[for="follow"] a {
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    top: 230px;
+    left: 180px;
+    text-decoration: underline;
+    color: black;
 }
