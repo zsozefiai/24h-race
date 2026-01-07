@@ -1,0 +1,69 @@
+body{
+    background-image: url(USA.png);
+    background-repeat: no-repeat;
+    background-size: 1800px;
+}
+body
+label[for="first"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 250px;
+    top: 80px;
+    border-radius: 20px;
+}
+label[for="second"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 1050px;
+    top: 80px;
+    border-radius: 20px;
+}
+label[for="third"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 650px;
+    top: 80px;
+    border-radius: 20px;
+}
+label[for="fourth"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 100px;
+    top: 400px;
+    border-radius: 20px;
+}
+label[for="fifth"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 450px;
+    top: 400px;
+    border-radius: 20px;
+}
+label[for="sixth"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 800px;
+    top: 400px;
+    border-radius: 20px;
+}
+label[for="seventh"]{
+    position: absolute;
+    background-color: rgb(211, 176, 87);
+    height: 250px;
+    width: 300px;
+    left: 1160px;
+    top: 400px;
+    border-radius: 20px;
+}
