@@ -67,3 +67,11 @@ label[for="seventh"]{
     top: 400px;
     border-radius: 20px;
 }
+.first img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 130px;
+    left: 350px;
+}

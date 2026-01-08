@@ -20,7 +20,7 @@ label[for="news"]{
     font-size: 70px;
     top: 10px;
     left: 60px;
-    font-family:'Courier New', Courier, monospace
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 label[for="next_race"]{
     position: absolute;
@@ -28,13 +28,13 @@ label[for="next_race"]{
     font-size: 50px;
     top: 100px;
     left: 150px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 label[for="march"]{
     position: absolute;
     color: white;
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 180px;
     left: 200px;
 }
@@ -42,7 +42,7 @@ label[for="track"]{
     position: absolute;
     color: white;
     font-size: 25px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 220px;
     left: 200px;
 }
@@ -50,7 +50,7 @@ label[for="inf"]{
     position: absolute;
     color: white;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 400px;
     left: 250px;
 }
@@ -66,7 +66,7 @@ label[for="standings"]{
     position: absolute;
     color: white;
     font-size: 28px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 300px;
     left: 300px;
 }
