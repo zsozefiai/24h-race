@@ -12,6 +12,10 @@ label[for="first"]{
     left: 250px;
     top: 80px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="second"]{
     position: absolute;
@@ -21,6 +25,10 @@ label[for="second"]{
     left: 1050px;
     top: 80px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="third"]{
     position: absolute;
@@ -30,6 +38,10 @@ label[for="third"]{
     left: 650px;
     top: 80px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="fourth"]{
     position: absolute;
@@ -39,6 +51,10 @@ label[for="fourth"]{
     left: 100px;
     top: 400px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="fifth"]{
     position: absolute;
@@ -48,6 +64,10 @@ label[for="fifth"]{
     left: 450px;
     top: 400px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="sixth"]{
     position: absolute;
@@ -57,6 +77,10 @@ label[for="sixth"]{
     left: 800px;
     top: 400px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 label[for="seventh"]{
     position: absolute;
@@ -66,6 +90,10 @@ label[for="seventh"]{
     left: 1160px;
     top: 400px;
     border-radius: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 .first img{
     position: absolute;
@@ -74,4 +102,44 @@ label[for="seventh"]{
     border-radius: 50px;
     top: 130px;
     left: 350px;
+}
+.second img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 130px;
+    left: 750px;
+}
+.third img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 470px;
+    left: 550px;
+}
+.fourth img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 470px;
+    left: 900px;
+}
+.fifth img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 470px;
+    left: 1260px;
+}
+.sixth img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 470px;
+    left: 200px;
 }
