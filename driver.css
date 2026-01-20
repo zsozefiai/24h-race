@@ -4,6 +4,14 @@ body{
     background-size: 1800px;
 }
 body
+#gugi{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    top: 470px;
+    left: 200px;
+}
 label[for="first"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
