@@ -1,7 +1,7 @@
 body{
     background-image: url(USA.png);
     background-repeat: no-repeat;
-    background-size: 1800px;
+    background-size: 1900px;
 }
 body
 #gugi{
@@ -15,12 +15,12 @@ body
 label[for="first"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
+    height: 300px;
+    width: 350px;
     left: 250px;
     top: 80px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -28,12 +28,12 @@ label[for="first"]{
 label[for="second"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
+    height: 300px;
+    width: 350px;
     left: 1050px;
     top: 80px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -41,12 +41,12 @@ label[for="second"]{
 label[for="third"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
+    height: 300px;
+    width: 350px;
     left: 650px;
     top: 80px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -54,12 +54,12 @@ label[for="third"]{
 label[for="fourth"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
+    height: 300px;
+    width: 350px;
     left: 100px;
-    top: 400px;
+    top: 450px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -67,12 +67,12 @@ label[for="fourth"]{
 label[for="fifth"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
-    left: 450px;
-    top: 400px;
+    height: 300px;
+    width: 350px;
+    left: 500px;
+    top: 450px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -80,12 +80,12 @@ label[for="fifth"]{
 label[for="sixth"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
-    left: 800px;
-    top: 400px;
+    height: 300px;
+    width: 350px;
+    left: 900px;
+    top: 450px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -93,61 +93,69 @@ label[for="sixth"]{
 label[for="seventh"]{
     position: absolute;
     background-color: rgb(211, 176, 87);
-    height: 250px;
-    width: 300px;
-    left: 1160px;
-    top: 400px;
+    height: 300px;
+    width: 350px;
+    left: 1300px;
+    top: 450px;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 .first img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 130px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 150px;
     left: 350px;
 }
 .second img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 130px;
-    left: 750px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 150px;
+    left: 1150px;
 }
 .third img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 470px;
-    left: 550px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 530px;
+    left: 600px;
 }
 .fourth img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 470px;
-    left: 900px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 530px;
+    left: 1000px;
 }
 .fifth img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 470px;
-    left: 1260px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 530px;
+    left: 1400px;
 }
 .sixth img{
     position: absolute;
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    top: 470px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 530px;
     left: 200px;
+}
+.seventh img{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 150px;
+    left: 750px;
 }
