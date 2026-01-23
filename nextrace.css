@@ -1,5 +1,5 @@
 body{
-    background-image: url(nextrace31.jpg);
+    background-image: url(spa.png);
     background-size: 2000px;
     background-repeat: no-repeat;
 }
@@ -19,7 +19,7 @@ label[for="race"]{
     top: 10px;
     left: 70px;
     font-weight: 600;
-    color: rgb(173, 120, 59);
+    color: rgb(240, 173, 118);
 }
 label[for="date"]{
     position: absolute;
@@ -28,6 +28,7 @@ label[for="date"]{
     top: 130px;
     left: 180px;
     font-weight: 540;
+    color: rgb(240, 173, 118);
 }
 label[for="clock"]{
     position: absolute;
@@ -35,15 +36,25 @@ label[for="clock"]{
     font-size: 50px;
     top: 134px;
     left: 450px;
+    color: rgb(240, 173, 118);
 }
 label[for="follow"] a {
     position: absolute;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
-    top: 200px;
+    top: 290px;
     left: 180px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover{
     color: rgb(187, 0, 250);
+}
+label[for="car"]{
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 540;
+    font-size: 30px;
+    color: rgb(240, 173, 118);
+    top: 200px;
+    left: 200px;
 }
