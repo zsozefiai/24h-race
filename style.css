@@ -60,7 +60,7 @@ label[for="inf"]{
     width: 300px;
     right: 10px;
     top: 100px;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 label[for="standings"]{
     position: absolute;
@@ -86,7 +86,7 @@ label[for="one"] a {
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 42px;
-    left: 50px;
+    left: 40px;
     text-decoration: none;
 }
 label[for="two"]{
@@ -95,7 +95,7 @@ label[for="two"]{
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 90px;
-    left: 50px;
+    left: 35px;
 }
 label[for="three"]{
     position: absolute;
@@ -103,7 +103,7 @@ label[for="three"]{
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 140px;
-    left: 50px;
+    left: 35px;
 }
 label[for="four"]{
     position: absolute;
@@ -111,7 +111,7 @@ label[for="four"]{
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 190px;
-    left: 50px;
+    left: 35px;
 }
 label[for="five"]{
     position: absolute;
@@ -119,7 +119,7 @@ label[for="five"]{
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 240px;
-    left: 50px;
+    left: 35px;
 }
 label[for="idk"]{
     position: absolute;
