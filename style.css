@@ -91,7 +91,7 @@ label[for="one"] a {
 }
 label[for="two"]{
     position: absolute;
-    color: grey;
+    color: rgb(161, 103, 3);
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     top: 90px;
